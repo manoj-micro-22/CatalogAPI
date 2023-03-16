@@ -1,4 +1,4 @@
-﻿using SPAECom.Api.Catalog.Data;
+﻿using SPAECom.Api.Catalog.Data.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

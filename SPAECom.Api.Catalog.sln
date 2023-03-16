@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAECom.Api.Catalog", "SPAECom.Api.Catalog\SPAECom.Api.Catalog.csproj", "{726AAE10-8E2A-46CE-9A7B-CBA78010C9BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPAECom.Api.Catalog", "SPAECom.Api.Catalog\SPAECom.Api.Catalog.csproj", "{726AAE10-8E2A-46CE-9A7B-CBA78010C9BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAECom.Api.Catalog.Data", "SPAECom.Api.Catalog.Data\SPAECom.Api.Catalog.Data.csproj", "{44BC15B7-6D89-4B74-B7ED-E08CC37103E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPAECom.Api.Catalog.Data", "SPAECom.Api.Catalog.Data\SPAECom.Api.Catalog.Data.csproj", "{44BC15B7-6D89-4B74-B7ED-E08CC37103E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAECom.Api.Catalog.Repository", "SPAECom.Api.Catalog.Repository\SPAECom.Api.Catalog.Repository.csproj", "{6BDC52C2-FCF3-4CBC-81CF-954BCEF6F1A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPAECom.Api.Catalog.Repository", "SPAECom.Api.Catalog.Repository\SPAECom.Api.Catalog.Repository.csproj", "{6BDC52C2-FCF3-4CBC-81CF-954BCEF6F1A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

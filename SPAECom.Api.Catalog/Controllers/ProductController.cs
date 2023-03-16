@@ -4,13 +4,13 @@ using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
 using System;
-using SPAECom.Api.Catalog.Data;
 using System.Threading.Tasks;
 using SPAECom.Api.Catalog.Repository.Provider;
+using SPAECom.Api.Catalog.Data.Models;
 
 namespace SPAECom.Api.Catalog.Controllers
 {
-    [Route("api/")]
+    [Route("api/catalog")]
     [ApiController]
     public class ProductController : ControllerBase
     {

@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using SPAECom.Api.Catalog.Data;
+using SPAECom.Api.Catalog.Data.Models;
 using SPAECom.Api.Catalog.Repository.Provider;
 using System.Collections.Generic;
 using System.Threading.Tasks;
